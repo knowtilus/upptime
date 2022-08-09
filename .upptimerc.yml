@@ -6,6 +6,9 @@ sites:
   - name: Knowtilus
     url: https://www.knowtil.us
     maxResponseTime: 5000
+  - name: Emanbae
+    url: https://www.emanbae.com
+    maxResponseTime: 3000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
