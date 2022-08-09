@@ -1,6 +1,6 @@
 [
   {
-    "name": "Knowtilus",
+    "name": "knowtilus",
     "url": "https://www.knowtil.us",
     "icon": "https://favicons.githubusercontent.com/www.knowtil.us",
     "slug": "knowtilus",
@@ -10,15 +10,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 371,
-    "timeDay": 371,
-    "timeWeek": 371,
-    "timeMonth": 371,
-    "timeYear": 371,
+    "time": 313,
+    "timeDay": 313,
+    "timeWeek": 313,
+    "timeMonth": 313,
+    "timeYear": 313,
     "dailyMinutesDown": {}
   },
   {
-    "name": "Emanbae",
+    "name": "emanbae",
     "url": "https://www.emanbae.com",
     "icon": "https://favicons.githubusercontent.com/www.emanbae.com",
     "slug": "emanbae",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 293,
-    "timeWeek": 293,
-    "timeMonth": 293,
-    "timeYear": 293,
+    "time": 233,
+    "timeDay": 233,
+    "timeWeek": 233,
+    "timeMonth": 233,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   }
 ]
