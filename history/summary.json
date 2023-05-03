@@ -4,19 +4,19 @@
     "url": "https://www.knowtil.us",
     "icon": "https://icons.duckduckgo.com/ip3/www.knowtil.us.ico",
     "slug": "knowtilus",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 387,
-    "timeDay": 323,
-    "timeWeek": 471,
-    "timeMonth": 458,
-    "timeYear": 387,
+    "time": 388,
+    "timeDay": 495,
+    "timeWeek": 496,
+    "timeMonth": 465,
+    "timeYear": 388,
     "dailyMinutesDown": {
-      "2023-05-03": 0
+      "2023-05-03": 7
     }
   },
   {
