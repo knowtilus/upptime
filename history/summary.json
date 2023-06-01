@@ -4,18 +4,20 @@
     "url": "https://www.knowtil.us",
     "icon": "https://icons.duckduckgo.com/ip3/www.knowtil.us.ico",
     "slug": "knowtilus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 391,
-    "timeDay": 355,
-    "timeWeek": 394,
-    "timeMonth": 435,
-    "timeYear": 391,
-    "dailyMinutesDown": {}
+    "time": 394,
+    "timeDay": 799,
+    "timeWeek": 500,
+    "timeMonth": 459,
+    "timeYear": 394,
+    "dailyMinutesDown": {
+      "2023-06-01": 0
+    }
   },
   {
     "name": "emanbae",
