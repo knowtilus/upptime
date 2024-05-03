@@ -1,7 +1,7 @@
 url: https://www.knowtil.us
-status: up
-code: 200
-responseTime: 584
-lastUpdated: 2024-05-02T23:14:45.247Z
+status: degraded
+code: 503
+responseTime: 10666
+lastUpdated: 2024-05-03T09:23:23.798Z
 startTime: 2022-08-09T13:11:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
