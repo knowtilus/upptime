@@ -4,7 +4,7 @@
     "url": "https://www.knowtil.us",
     "icon": "https://icons.duckduckgo.com/ip3/www.knowtil.us.ico",
     "slug": "knowtilus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 514,
     "timeYear": 651,
     "dailyMinutesDown": {
+      "2024-08-07": 0,
       "2024-05-03": 47,
       "2023-09-13": 17
     }
