@@ -43,19 +43,19 @@
     "url": "$API_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 751,
-    "timeDay": 646,
-    "timeWeek": 697,
-    "timeMonth": 730,
+    "timeDay": 719,
+    "timeWeek": 716,
+    "timeMonth": 734,
     "timeYear": 754,
     "dailyMinutesDown": {
-      "2025-02-14": 0
+      "2025-02-14": 22
     }
   }
 ]
