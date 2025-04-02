@@ -25,9 +25,9 @@
     "url": "https://www.emanbae.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.emanbae.com.ico",
     "slug": "emanbae",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 464,
     "timeMonth": 460,
     "timeYear": 438,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-02": 0
+    }
   },
   {
     "name": "API",
