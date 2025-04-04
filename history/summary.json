@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 593,
-    "timeDay": 131,
-    "timeWeek": 368,
-    "timeMonth": 426,
-    "timeYear": 641,
+    "time": 592,
+    "timeDay": 179,
+    "timeWeek": 341,
+    "timeMonth": 413,
+    "timeYear": 640,
     "dailyMinutesDown": {
       "2024-08-07": 50,
       "2024-05-03": 47
@@ -27,14 +27,14 @@
     "slug": "emanbae",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "92.71%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.96%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
-    "time": 439,
-    "timeDay": 410,
-    "timeWeek": 435,
-    "timeMonth": 454,
+    "time": 438,
+    "timeDay": 381,
+    "timeWeek": 426,
+    "timeMonth": 450,
     "timeYear": 438,
     "dailyMinutesDown": {
       "2025-04-02": 105
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 753,
-    "timeDay": 589,
-    "timeWeek": 728,
-    "timeMonth": 756,
-    "timeYear": 756,
+    "timeDay": 613,
+    "timeWeek": 714,
+    "timeMonth": 748,
+    "timeYear": 755,
     "dailyMinutesDown": {
       "2025-02-14": 22
     }
