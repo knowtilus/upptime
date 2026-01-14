@@ -6,14 +6,14 @@
     "slug": "knowtilus",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "89.79%",
+    "uptimeDay": "95.30%",
     "uptimeWeek": "97.64%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.35%",
     "time": 935,
-    "timeDay": 7142,
-    "timeWeek": 5470,
-    "timeMonth": 2633,
+    "timeDay": 6769,
+    "timeWeek": 5459,
+    "timeMonth": 2635,
     "timeYear": 1146,
     "dailyMinutesDown": {
       "2026-01-13": 67,
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 481,
-    "timeDay": 489,
-    "timeWeek": 463,
-    "timeMonth": 450,
-    "timeYear": 497,
+    "time": 480,
+    "timeDay": 343,
+    "timeWeek": 440,
+    "timeMonth": 446,
+    "timeYear": 496,
     "dailyMinutesDown": {
       "2025-04-02": 105
     }
@@ -61,11 +61,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 752,
-    "timeDay": 834,
-    "timeWeek": 820,
-    "timeMonth": 754,
-    "timeYear": 750,
+    "time": 751,
+    "timeDay": 613,
+    "timeWeek": 804,
+    "timeMonth": 755,
+    "timeYear": 749,
     "dailyMinutesDown": {
       "2025-02-14": 22
     }
